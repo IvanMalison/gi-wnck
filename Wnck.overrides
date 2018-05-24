@@ -1,4 +1,4 @@
 set-attr Wnck/Screen/get_active_window/@return-value nullable 1
 set-attr Wnck/Screen/get_active_workspace/@return-value nullable 1
 
-set-attr Wnck/ScreenClass/active_window_changed/@parameters/previous_window nullable 1
+set-attr Wnck/Screen/active-window-changed/@parameters/previously_active_window nullable 1
